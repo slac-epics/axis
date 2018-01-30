@@ -1,0 +1,5 @@
+Move Makefile to Makefile.orig
+Rename Makefile.epics to Makefile.
+Move configure/RELEASE to configure/RELEASE.orig.
+Install $(TOP)/RELEASE_SITE for 3.15.2.
+Changed axisApp/EthercatSrc/Makefile to put axis before asyn.
